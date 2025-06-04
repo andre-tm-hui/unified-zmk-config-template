@@ -21,7 +21,7 @@
                 &kp TAB        &kp Q     &kp W     &kp E     &kp R     &kp T                              &kp Y     &kp U     &kp I     &kp O     &kp P     &kp ENTER
                 &kp LCTRL      &kp A     &kp S     &kp D     &kp F     &kp G                              &kp H     &kp J     &kp K     &kp L     &kp SEMI  &kp APOS
                 &kp LSHFT      &kp Z     &kp X     &kp C     &kp V     &kp B     &kp LBKT       &kp DEL   &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH  &kp RSHFT
-                &kp LS(LC(N4)) &kp LGUI  &kp LALT  &kp GRAVE &kp GRAVE &mo LOWER &kp SPACE      &kp SPACE &mo RAISE                               &kp BSLH  &kp LS(LC(N5))
+                &kp LS(LC(N4)) &kp LGUI  &kp LALT  &kp GRAVE &kp GRAVE &trans &kp SPACE      &kp SPACE &mo RAISE                               &kp BSLH  &kp LS(LC(N5))
             >;
         };
 
@@ -65,7 +65,7 @@
                 &trans    &trans    &trans    &trans    &trans    &trans                             &trans    &trans    &trans    &trans    &trans    &trans
                 &trans    &trans    &trans    &trans    &trans    &trans                             &trans    &trans    &trans    &trans    &trans    &trans
                 &trans    &trans    &trans    &trans    &trans    &trans    &to 0          &trans    &trans    &trans    &trans    &trans    &trans    &trans
-                &trans    &trans    &trans    &trans    &mo LOWER &kp SPACE &trans         &trans    &trans                                  &trans    &trans
+                &trans    &trans    &trans    &trans    &trans &kp SPACE &trans         &trans    &trans                                  &trans    &trans
             >;
         };
     };
