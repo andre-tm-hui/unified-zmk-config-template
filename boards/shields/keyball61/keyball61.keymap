@@ -21,7 +21,7 @@
                 &kp TAB        &kp Q     &kp W     &kp E     &kp R     &kp T                              &kp Y     &kp U     &kp I     &kp O     &kp P     &kp ENTER
                 &kp LCTRL      &kp A     &kp S     &kp D     &kp F     &kp G                              &kp H     &kp J     &kp K     &kp L     &kp SEMI  &kp APOS
                 &kp LSHFT      &kp Z     &kp X     &kp C     &kp V     &kp B     &kp LBKT       &kp DEL   &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH  &kp RSHFT
-                &kp LS(LC(N4)) &kp LGUI  &kp LALT  &kp GRAVE &kp GRAVE &trans &kp SPACE      &kp SPACE &mo RAISE                               &kp BSLH  &kp LS(LC(N5))
+                &kp LS(LC(N4)) &kp LGUI  &kp LALT  &kp GRAVE &kp GRAVE &trans &kp SPACE      &kp SPACE &trans                              &kp BSLH  &kp LS(LC(N5))
             >;
         };
 
@@ -31,7 +31,7 @@
                 &trans      &trans        &trans    &trans    &trans    &trans                             &trans    &trans    &trans    &trans    &trans    &trans
                 &kp F1      &kp F2        &kp F3    &kp F4    &kp F5    &kp F6                             &kp F7    &kp F8    &kp F9    &kp F10   &kp F11   &kp F12
                 &kp LC(TAB) &kp LC(TILDE) &trans    &trans    &kp LBKT  &kp RBKT                           &kp MINUS &kp EQUAL &trans    &trans    &trans    &kp LALT(ENTER)
-                &trans      &trans        &trans    &trans    &kp LBRC  &kp RBRC  &to MSC        &trans    &kp UNDER &kp PLUS  &trans    &trans    &trans    &trans
+                &trans      &trans        &trans    &trans    &kp LBRC  &kp RBRC  &trans        &trans    &kp UNDER &kp PLUS  &trans    &trans    &trans    &trans
                 &trans      &trans        &trans    &trans    &trans    &trans    &studio_unlock &trans    &trans                                  &trans    &trans
             >;
         };
@@ -64,7 +64,7 @@
                 &trans    &trans    &trans    &trans    &trans    &trans                             &trans    &trans    &trans    &trans    &trans    &trans
                 &trans    &trans    &trans    &trans    &trans    &trans                             &trans    &trans    &trans    &trans    &trans    &trans
                 &trans    &trans    &trans    &trans    &trans    &trans                             &trans    &trans    &trans    &trans    &trans    &trans
-                &trans    &trans    &trans    &trans    &trans    &trans    &to 0          &trans    &trans    &trans    &trans    &trans    &trans    &trans
+                &trans    &trans    &trans    &trans    &trans    &trans    &trans          &trans    &trans    &trans    &trans    &trans    &trans    &trans
                 &trans    &trans    &trans    &trans    &trans &kp SPACE &trans         &trans    &trans                                  &trans    &trans
             >;
         };
